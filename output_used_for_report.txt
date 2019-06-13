@@ -1,0 +1,487 @@
+This was the output from src/main.py for the run used to write the report.
+==========================================================================
+Splitting datasets (10-fold).
+Training Clean trees...
+
+Started to train tree 12..
+Tree 12 trained, Height = 10
+Started to train tree 13..
+Tree 13 trained, Height = 11
+Started to train tree 1..
+Tree 1 trained, Height = 14
+Started to train tree 6..
+Tree 6 trained, Height = 10
+Started to train tree 15..
+Tree 15 trained, Height = 10
+Started to train tree 3..
+Tree 3 trained, Height = 11
+Started to train tree 2..
+Tree 2 trained, Height = 12
+Started to train tree 8..
+Tree 8 trained, Height = 12
+Started to train tree 5..
+Tree 5 trained, Height = 13
+Started to train tree 10..
+Tree 10 trained, Height = 14
+Started to train tree 7..
+Tree 7 trained, Height = 11
+Started to train tree 11..
+Tree 11 trained, Height = 11
+Started to train tree 4..
+Tree 4 trained, Height = 9
+Started to train tree 9..
+Tree 9 trained, Height = 14
+Started to train tree 14..
+Tree 14 trained, Height = 12
+Started to train tree 21..
+Tree 21 trained, Height = 10
+Started to train tree 22..
+Tree 22 trained, Height = 11
+Started to train tree 25..
+Tree 25 trained, Height = 11
+Started to train tree 16..
+Tree 16 trained, Height = 12
+Started to train tree 28..
+Tree 28 trained, Height = 11
+Started to train tree 27..
+Tree 27 trained, Height = 10
+Started to train tree 20..
+Tree 20 trained, Height = 11
+Started to train tree 17..
+Tree 17 trained, Height = 12
+Started to train tree 18..
+Tree 18 trained, Height = 13
+Started to train tree 29..
+Tree 29 trained, Height = 10
+Started to train tree 24..
+Tree 24 trained, Height = 11
+Started to train tree 26..
+Tree 26 trained, Height = 10
+Started to train tree 23..
+Tree 23 trained, Height = 10
+Started to train tree 30..
+Tree 30 trained, Height = 10
+Started to train tree 19..
+Tree 19 trained, Height = 12
+Started to train tree 43..
+Tree 43 trained, Height = 11
+Started to train tree 33..
+Tree 33 trained, Height = 11
+Started to train tree 41..
+Tree 41 trained, Height = 12
+Started to train tree 32..
+Tree 32 trained, Height = 10
+Started to train tree 37..
+Tree 37 trained, Height = 9
+Started to train tree 35..
+Tree 35 trained, Height = 11
+Started to train tree 42..
+Tree 42 trained, Height = 12
+Started to train tree 39..
+Tree 39 trained, Height = 11
+Started to train tree 36..
+Tree 36 trained, Height = 10
+Started to train tree 31..
+Tree 31 trained, Height = 10
+Started to train tree 45..
+Tree 45 trained, Height = 9
+Started to train tree 40..
+Tree 40 trained, Height = 10
+Started to train tree 34..
+Tree 34 trained, Height = 11
+Started to train tree 38..
+Tree 38 trained, Height = 11
+Started to train tree 44..
+Tree 44 trained, Height = 10
+Started to train tree 59..
+Tree 59 trained, Height = 12
+Started to train tree 54..
+Tree 54 trained, Height = 9
+Started to train tree 58..
+Tree 58 trained, Height = 11
+Started to train tree 50..
+Tree 50 trained, Height = 12
+Started to train tree 53..
+Tree 53 trained, Height = 12
+Started to train tree 55..
+Tree 55 trained, Height = 10
+Started to train tree 57..
+Tree 57 trained, Height = 11
+Started to train tree 47..
+Tree 47 trained, Height = 12
+Started to train tree 56..
+Tree 56 trained, Height = 10
+Started to train tree 60..
+Tree 60 trained, Height = 11
+Started to train tree 46..
+Tree 46 trained, Height = 13
+Started to train tree 52..
+Tree 52 trained, Height = 12
+Started to train tree 51..
+Tree 51 trained, Height = 11
+Started to train tree 49..
+Tree 49 trained, Height = 10
+Started to train tree 48..
+Tree 48 trained, Height = 10
+Started to train tree 62..
+Tree 62 trained, Height = 10
+Started to train tree 65..
+Tree 65 trained, Height = 12
+Started to train tree 75..
+Tree 75 trained, Height = 10
+Started to train tree 66..
+Tree 66 trained, Height = 11
+Started to train tree 63..
+Tree 63 trained, Height = 9
+Started to train tree 68..
+Tree 68 trained, Height = 11
+Started to train tree 73..
+Tree 73 trained, Height = 12
+Started to train tree 71..
+Tree 71 trained, Height = 11
+Started to train tree 69..
+Tree 69 trained, Height = 12
+Started to train tree 64..
+Tree 64 trained, Height = 11
+Started to train tree 72..
+Tree 72 trained, Height = 10
+Started to train tree 74..
+Tree 74 trained, Height = 12
+Started to train tree 67..
+Tree 67 trained, Height = 11
+Started to train tree 61..
+Tree 61 trained, Height = 10
+Started to train tree 70..
+Tree 70 trained, Height = 10
+Started to train tree 83..
+Tree 83 trained, Height = 13
+Started to train tree 82..
+Tree 82 trained, Height = 14
+Started to train tree 79..
+Tree 79 trained, Height = 10
+Started to train tree 81..
+Tree 81 trained, Height = 11
+Started to train tree 84..
+Tree 84 trained, Height = 10
+Started to train tree 88..
+Tree 88 trained, Height = 9
+Started to train tree 80..
+Tree 80 trained, Height = 11
+Started to train tree 78..
+Tree 78 trained, Height = 12
+Started to train tree 90..
+Tree 90 trained, Height = 11
+Started to train tree 89..
+Tree 89 trained, Height = 10
+Started to train tree 76..
+Tree 76 trained, Height = 11
+Started to train tree 85..
+Tree 85 trained, Height = 10
+Started to train tree 87..
+Tree 87 trained, Height = 9
+Started to train tree 86..
+Tree 86 trained, Height = 9
+Started to train tree 77..
+Tree 77 trained, Height = 10
+All Clean trees trained.
+Average height of Clean trees = 	10.9333333333
+Standard deviation of Clean trees height = 	1.2
+Max height of Clean trees = 	14.0
+
+
+Training Noisy trees...
+
+Started to train tree 4..
+Tree 4 trained, Height = 16
+Started to train tree 8..
+Tree 8 trained, Height = 18
+Started to train tree 6..
+Tree 6 trained, Height = 17
+Started to train tree 9..
+Tree 9 trained, Height = 17
+Started to train tree 10..
+Tree 10 trained, Height = 17
+Started to train tree 15..
+Tree 15 trained, Height = 16
+Started to train tree 11..
+Tree 11 trained, Height = 15
+Started to train tree 3..
+Tree 3 trained, Height = 21
+Started to train tree 1..
+Tree 1 trained, Height = 17
+Started to train tree 5..
+Tree 5 trained, Height = 17
+Started to train tree 14..
+Tree 14 trained, Height = 14
+Started to train tree 7..
+Tree 7 trained, Height = 18
+Started to train tree 2..
+Tree 2 trained, Height = 17
+Started to train tree 12..
+Tree 12 trained, Height = 15
+Started to train tree 13..
+Tree 13 trained, Height = 14
+Started to train tree 26..
+Tree 26 trained, Height = 17
+Started to train tree 17..
+Tree 17 trained, Height = 17
+Started to train tree 29..
+Tree 29 trained, Height = 15
+Started to train tree 23..
+Tree 23 trained, Height = 15
+Started to train tree 25..
+Tree 25 trained, Height = 16
+Started to train tree 30..
+Tree 30 trained, Height = 15
+Started to train tree 24..
+Tree 24 trained, Height = 16
+Started to train tree 28..
+Tree 28 trained, Height = 21
+Started to train tree 19..
+Tree 19 trained, Height = 17
+Started to train tree 16..
+Tree 16 trained, Height = 16
+Started to train tree 22..
+Tree 22 trained, Height = 14
+Started to train tree 18..
+Tree 18 trained, Height = 14
+Started to train tree 20..
+Tree 20 trained, Height = 15
+Started to train tree 21..
+Tree 21 trained, Height = 15
+Started to train tree 27..
+Tree 27 trained, Height = 18
+Started to train tree 45..
+Tree 45 trained, Height = 16
+Started to train tree 41..
+Tree 41 trained, Height = 14
+Started to train tree 42..
+Tree 42 trained, Height = 15
+Started to train tree 40..
+Tree 40 trained, Height = 14
+Started to train tree 36..
+Tree 36 trained, Height = 16
+Started to train tree 38..
+Tree 38 trained, Height = 14
+Started to train tree 44..
+Tree 44 trained, Height = 15
+Started to train tree 37..
+Tree 37 trained, Height = 16
+Started to train tree 35..
+Tree 35 trained, Height = 17
+Started to train tree 39..
+Tree 39 trained, Height = 14
+Started to train tree 32..
+Tree 32 trained, Height = 16
+Started to train tree 31..
+Tree 31 trained, Height = 14
+Started to train tree 43..
+Tree 43 trained, Height = 16
+Started to train tree 33..
+Tree 33 trained, Height = 22
+Started to train tree 34..
+Tree 34 trained, Height = 16
+Started to train tree 50..
+Tree 50 trained, Height = 14
+Started to train tree 48..
+Tree 48 trained, Height = 15
+Started to train tree 49..
+Tree 49 trained, Height = 16
+Started to train tree 55..
+Tree 55 trained, Height = 17
+Started to train tree 54..
+Tree 54 trained, Height = 18
+Started to train tree 46..
+Tree 46 trained, Height = 17
+Started to train tree 47..
+Tree 47 trained, Height = 14
+Started to train tree 58..
+Tree 58 trained, Height = 22
+Started to train tree 53..
+Tree 53 trained, Height = 15
+Started to train tree 51..
+Tree 51 trained, Height = 16
+Started to train tree 60..
+Tree 60 trained, Height = 16
+Started to train tree 59..
+Tree 59 trained, Height = 15
+Started to train tree 56..
+Tree 56 trained, Height = 16
+Started to train tree 52..
+Tree 52 trained, Height = 15
+Started to train tree 57..
+Tree 57 trained, Height = 16
+Started to train tree 73..
+Tree 73 trained, Height = 18
+Started to train tree 62..
+Tree 62 trained, Height = 17
+Started to train tree 69..
+Tree 69 trained, Height = 15
+Started to train tree 61..
+Tree 61 trained, Height = 15
+Started to train tree 72..
+Tree 72 trained, Height = 17
+Started to train tree 68..
+Tree 68 trained, Height = 16
+Started to train tree 71..
+Tree 71 trained, Height = 15
+Started to train tree 74..
+Tree 74 trained, Height = 17
+Started to train tree 75..
+Tree 75 trained, Height = 17
+Started to train tree 66..
+Tree 66 trained, Height = 16
+Started to train tree 65..
+Tree 65 trained, Height = 16
+Started to train tree 64..
+Tree 64 trained, Height = 18
+Started to train tree 67..
+Tree 67 trained, Height = 16
+Started to train tree 63..
+Tree 63 trained, Height = 17
+Started to train tree 70..
+Tree 70 trained, Height = 15
+Started to train tree 76..
+Tree 76 trained, Height = 17
+Started to train tree 79..
+Tree 79 trained, Height = 17
+Started to train tree 86..
+Tree 86 trained, Height = 16
+Started to train tree 84..
+Tree 84 trained, Height = 18
+Started to train tree 82..
+Tree 82 trained, Height = 17
+Started to train tree 78..
+Tree 78 trained, Height = 15
+Started to train tree 89..
+Tree 89 trained, Height = 17
+Started to train tree 81..
+Tree 81 trained, Height = 16
+Started to train tree 83..
+Tree 83 trained, Height = 14
+Started to train tree 87..
+Tree 87 trained, Height = 18
+Started to train tree 85..
+Tree 85 trained, Height = 16
+Started to train tree 77..
+Tree 77 trained, Height = 15
+Started to train tree 90..
+Tree 90 trained, Height = 16
+Started to train tree 80..
+Tree 80 trained, Height = 15
+Started to train tree 88..
+Tree 88 trained, Height = 17
+All Noisy trees trained.
+Average height of Noisy trees = 	16.1777777778
+Standard deviation of Noisy trees height = 	1.63691972095
+Max height of Noisy trees = 	22.0
+
+
+
+Pre-pruning test metrics.
+Now testing Clean trees with test sets
+
+Average metrics:
+Confusion Matrix: 
+[[ 49.17777778   0.           0.41111111   0.41111111]
+ [  0.          48.18888889   1.81111111   0.        ]
+ [  0.15555556   2.47777778  46.92222222   0.44444444]
+ [  0.33333333   0.           0.45555556  49.21111111]]
+Recall		 [C1, C2, C3, C4] = [ 0.98355556  0.96377778  0.93844444  0.98422222]
+Precision	 [C1, C2, C3, C4] = [ 0.9901566   0.95109649  0.94601254  0.98291167]
+F1		 [C1, C2, C3, C4] = [ 0.98684504  0.95739514  0.9422133   0.98356651]
+Classification Rate = 0.9675
+
+Standard deviation
+Recall		 [C1, C2, C3, C4] = [ 0.0152344   0.02412397  0.03575025  0.01719387]
+Precision	 [C1, C2, C3, C4] = [ 0.01056867  0.02977385  0.02510567  0.02089104]
+F1		 [C1, C2, C3, C4] = [ 0.00971397  0.01969893  0.02335864  0.01198069]
+Classification Rate = 0.0129368122469
+
+
+
+Now testing Noisy trees with test sets
+
+Average metrics:
+Confusion Matrix: 
+[[ 38.91111111   2.93333333   2.94444444   4.21111111]
+ [  2.93333333  40.02222222   4.11111111   2.63333333]
+ [  2.73333333   4.07777778  40.96666667   3.72222222]
+ [  4.04444444   2.83333333   3.06666667  39.85555556]]
+Recall		 [C1, C2, C3, C4] = [ 0.79410431  0.8052761   0.79546926  0.80031236]
+Precision	 [C1, C2, C3, C4] = [ 0.80027422  0.80258467  0.80187038  0.79043632]
+F1		 [C1, C2, C3, C4] = [ 0.79717733  0.80392813  0.79865699  0.79534368]
+Classification Rate = 0.798777777778
+
+Standard deviation
+Recall		 [C1, C2, C3, C4] = [ 0.06205883  0.06250808  0.07504822  0.06513069]
+Precision	 [C1, C2, C3, C4] = [ 0.0557151   0.07136874  0.05729246  0.07494827]
+F1		 [C1, C2, C3, C4] = [ 0.03780356  0.05016988  0.0478986   0.05031952]
+Classification Rate = 0.0288030776819
+
+
+
+
+Pruning Clean trees
+[8, 3, 7, 6, 2, 5, 6, 7, 6, 9, 4, 3, 8, 4, 4, 8, 8, 8, 8, 7, 2, 6, 2, 4, 5, 4, 2, 6, 2, 1, 7, 1, 4, 4, 2, 5, 5, 7, 2, 4, 4, 6, 5, 5, 1, 8, 3, 7, 1, 8, 4, 8, 8, 2, 5, 6, 7, 7, 8, 2, 5, 4, 4, 6, 6, 7, 3, 8, 4, 7, 6, 4, 6, 3, 4, 4, 5, 8, 4, 6, 6, 9, 5, 6, 5, 1, 1, 5, 2, 3]
+[11, 5, 8, 7, 6, 7, 7, 8, 7, 10, 5, 5, 9, 5, 7, 9, 9, 9, 11, 8, 5, 7, 5, 6, 6, 6, 5, 7, 5, 5, 8, 5, 6, 6, 5, 6, 8, 9, 6, 6, 7, 7, 7, 6, 5, 9, 5, 8, 5, 9, 5, 9, 9, 5, 6, 8, 9, 9, 9, 5, 6, 6, 7, 7, 9, 9, 6, 9, 5, 8, 9, 5, 8, 4, 6, 6, 6, 10, 6, 7, 7, 10, 6, 8, 6, 6, 6, 6, 7, 6]
+[25, 15, 27, 28, 18, 25, 21, 19, 29, 26, 18, 19, 23, 17, 23, 22, 21, 25, 22, 23, 21, 24, 20, 21, 27, 18, 17, 27, 19, 19, 31, 22, 25, 25, 16, 22, 27, 22, 18, 28, 21, 25, 22, 18, 19, 23, 17, 24, 22, 26, 21, 28, 22, 25, 26, 25, 24, 31, 29, 22, 24, 21, 23, 22, 22, 30, 24, 26, 24, 26, 24, 26, 18, 15, 21, 23, 21, 25, 24, 23, 21, 32, 21, 20, 20, 20, 24, 23, 23, 20]
+Average height of Clean trees = 	5.95555555556
+Standard deviation of Clean trees height = 	1.8850942276
+Max height of Clean trees = 	11.0
+
+
+Pruning Noisy trees
+[8, 13, 12, 9, 8, 13, 13, 13, 6, 7, 11, 5, 10, 6, 5, 9, 12, 2, 8, 10, 5, 8, 10, 12, 7, 2, 10, 10, 4, 3, 5, 12, 9, 8, 12, 9, 8, 9, 7, 2, 3, 11, 6, 3, 3, 12, 3, 7, 9, 4, 8, 10, 2, 2, 5, 6, 12, 14, 11, 10, 8, 14, 10, 10, 9, 7, 8, 3, 10, 11, 10, 9, 12, 4, 13, 12, 4, 6, 8, 5, 5, 8, 4, 8, 9, 12, 14, 8, 13, 12]
+[15, 15, 17, 12, 13, 15, 16, 16, 16, 14, 14, 14, 13, 13, 14, 14, 16, 11, 15, 14, 14, 13, 13, 14, 13, 14, 17, 16, 14, 13, 12, 15, 13, 15, 16, 15, 14, 12, 12, 12, 10, 14, 13, 12, 15, 16, 13, 14, 14, 12, 15, 13, 12, 13, 16, 14, 15, 21, 14, 14, 14, 16, 16, 16, 14, 15, 15, 15, 14, 14, 14, 16, 17, 14, 16, 16, 14, 13, 15, 14, 15, 15, 12, 17, 14, 15, 16, 14, 15, 14]
+[175, 190, 194, 189, 189, 182, 190, 199, 183, 177, 200, 194, 196, 187, 192, 207, 212, 177, 177, 200, 204, 203, 187, 198, 199, 192, 199, 184, 194, 197, 197, 198, 198, 211, 204, 205, 187, 193, 199, 190, 175, 196, 199, 193, 188, 193, 183, 187, 187, 185, 179, 183, 181, 176, 166, 193, 198, 200, 195, 181, 204, 207, 194, 187, 206, 199, 208, 196, 186, 206, 197, 192, 197, 192, 207, 203, 199, 188, 198, 193, 184, 181, 177, 195, 202, 205, 194, 190, 199, 203]
+Average height of Noisy trees = 	7.96666666667
+Standard deviation of Noisy trees height = 	3.03845721086
+Max height of Noisy trees = 	16.0
+
+
+
+Post-pruning validation metrics.
+Now testing Clean trees with test sets
+
+Average metrics:
+Confusion Matrix: 
+[[  4.97000000e+01   0.00000000e+00   2.55555556e-01   4.44444444e-02]
+ [  0.00000000e+00   4.72000000e+01   2.80000000e+00   0.00000000e+00]
+ [  6.66666667e-01   2.02222222e+00   4.70111111e+01   3.00000000e-01]
+ [  4.77777778e-01   0.00000000e+00   5.11111111e-01   4.90111111e+01]]
+Recall		 [C1, C2, C3, C4] = [ 0.994       0.944       0.94022222  0.98022222]
+Precision	 [C1, C2, C3, C4] = [ 0.97749126  0.95891648  0.92948155  0.99302116]
+F1		 [C1, C2, C3, C4] = [ 0.98567651  0.95139978  0.93482103  0.98658018]
+Classification Rate = 0.9631666666666
+
+Standard deviation
+Recall		 [C1, C2, C3, C4] = [ 0.01454054  0.03299383  0.02930822  0.02372111]
+Precision	 [C1, C2, C3, C4] = [ 0.01812301  0.02775352  0.03673468  0.01271136]
+F1		 [C1, C2, C3, C4] = [ 0.01029191  0.02213467  0.02353788  0.01410324]
+Classification Rate = 0.0121615920417
+
+
+
+Now testing Noisy trees with test sets
+
+Average metrics:
+Confusion Matrix: 
+[[ 43.96666667   1.1          1.67777778   2.25555556]
+ [  1.92222222  43.22222222   3.21111111   1.34444444]
+ [  2.3          3.36666667  43.57777778   2.25555556]
+ [  2.21111111   1.47777778   2.12222222  43.98888889]]
+Recall		 [C1, C2, C3, C4] = [ 0.89727891  0.86966242  0.84617044  0.88331102]
+Precision	 [C1, C2, C3, C4] = [ 0.8723545   0.87909605  0.86141006  0.88252341]
+F1		 [C1, C2, C3, C4] = [ 0.88464118  0.87435379  0.85372225  0.88291704]
+Classification Rate = 0.873777777778
+
+Standard deviation
+Recall		 [C1, C2, C3, C4] = [ 0.04003123  0.0553383   0.0844297   0.0553946 ]
+Precision	 [C1, C2, C3, C4] = [ 0.0518749   0.05594376  0.04404932  0.06440014]
+F1		 [C1, C2, C3, C4] = [ 0.02746437  0.04213312  0.04870156  0.04978556]
+Classification Rate = 0.0275208114293
+
+
+
+
