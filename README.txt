@@ -1,3 +1,5 @@
+The report is also included in the uploaded files named as "Report.pdf".
+
 To run the program:
 
 From the ROOT directory (same as README.txt):
