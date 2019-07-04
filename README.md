@@ -4,7 +4,7 @@ The report can be found  <a href="Report.pdf">here</a> .
 
 To run the program:
 
-From the ROOT directory (same as README.txt):
+From the ROOT directory (same as README.md):
 
     "python3 src/main.py"
 
