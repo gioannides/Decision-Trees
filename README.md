@@ -5,6 +5,11 @@
 
 # Decision Trees
 
+The purpose of this project was to implement a decision tree learning algorithm
+to predict the room in which a mobile phone was located. The dataset contains 7
+Wi-Fi signal strength attributes, and the actual room location of the device. A clean
+and a noisy dataset were used.
+
 Report
 ------
 
