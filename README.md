@@ -5,16 +5,19 @@
 
 # Decision Trees
 
+Report
+------
+
 The report can be found  <a href="Report.pdf">here</a> .
+
+Usage
+-----
 
 To run the program:
 
 From the ROOT directory (same as README.md):
 
     "python3 src/main.py"
-
-Usage
-=====
 
 To test with a new dataset:
 1. IMPORTANT: Please place the new file inside 'src/WIFI_db/'. Otherwise it will not work.
