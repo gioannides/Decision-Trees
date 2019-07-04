@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="decision.png">
+  <br>
+</div>
+
 # Decision Trees
 
 The report can be found  <a href="Report.pdf">here</a> .
