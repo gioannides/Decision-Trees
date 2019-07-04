@@ -1,4 +1,6 @@
-The report is also included in the uploaded files named as "Report.pdf".
+# Decision Trees
+
+The report can be found  <a href="Report.pdf">here</a> .
 
 To run the program:
 
@@ -6,7 +8,8 @@ From the ROOT directory (same as README.txt):
 
     "python3 src/main.py"
 
-=======================================================================================
+Usage
+=====
 
 To test with a new dataset:
 1. IMPORTANT: Please place the new file inside 'src/WIFI_db/'. Otherwise it will not work.
@@ -21,7 +24,5 @@ To test with a new dataset:
 7. Performance metrics for the new dataset will be under outputs labelled with "Noisy"
 
 NOTE: If the new dataset has under 30 samples, the program may not run, as it may not be able to split the dataset for 10-fold cross-validation.
-
-=======================================================================================
 
 Line 150 in src/main.py has further instrustions on how to run the visualisation.
