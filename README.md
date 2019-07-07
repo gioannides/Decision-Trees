@@ -13,7 +13,7 @@ and a noisy dataset were used.
 Report
 ------
 
-The report can be found  <a href="Report.pdf">here</a> .
+The report describing the algorithms and metrics used can be found  <a href="Report.pdf">here</a> .
 
 Usage
 -----
