@@ -5,7 +5,7 @@
 
 # Decision Trees
 
-The code can be found  <a href="https://github.com/gioannides/Decision-Trees">here</a>
+The code can be found  <a href="https://github.com/gioannides/Decision-Trees">here</a>.
 --------------------------------------------------------------------------------------
 
 The purpose of this project was to implement a decision tree learning algorithm
